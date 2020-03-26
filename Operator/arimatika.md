@@ -45,3 +45,5 @@ Berikut contohnya:
   love = "Aku" + " " + "Dan" + " " + "Kamu";
   console.log(love);
 ```
+
+[**<== Kembali untuk melihat operator lainya**](https://github.com/Fakhri17/Pratice-Js/tree/master/Operator)
