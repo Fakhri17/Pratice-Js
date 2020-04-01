@@ -43,7 +43,7 @@ Berikut contohnya:
 ```javascript
   var love;
   love = "Aku" + " " + "Dan" + " " + "Kamu";
-  console.log(love);
+  console.log(love); // output = Aku Dan Kamu
 ```
 
 [**<== Kembali untuk melihat operator lainya**](https://github.com/Fakhri17/Pratice-Js/tree/master/Operator)
